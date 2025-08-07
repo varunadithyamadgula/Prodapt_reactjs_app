@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Prodapt_reactjs_app/static/css/main.40dc14ea.css",
+    "main.js": "/Prodapt_reactjs_app/static/js/main.16f9bc18.js",
+    "static/js/453.d44e7683.chunk.js": "/Prodapt_reactjs_app/static/js/453.d44e7683.chunk.js",
+    "static/media/premium_photo-1664301427534-28b6a53a9c4f.jpg": "/Prodapt_reactjs_app/static/media/premium_photo-1664301427534-28b6a53a9c4f.bd413cfda8ac46c8accf.jpg",
+    "static/media/sportify3.webp": "/Prodapt_reactjs_app/static/media/sportify3.ec17b61ee3d2b4756132.webp",
+    "static/media/sportify2.webp": "/Prodapt_reactjs_app/static/media/sportify2.b6251141d032d1d370af.webp",
+    "static/media/logo2.png": "/Prodapt_reactjs_app/static/media/logo2.b15a816e06cf810f17d0.png",
+    "static/media/login-background.webp": "/Prodapt_reactjs_app/static/media/login-background.cacdd24b370bb15a11d7.webp",
+    "static/media/logo.svg": "/Prodapt_reactjs_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Prodapt_reactjs_app/index.html",
+    "main.40dc14ea.css.map": "/Prodapt_reactjs_app/static/css/main.40dc14ea.css.map",
+    "main.16f9bc18.js.map": "/Prodapt_reactjs_app/static/js/main.16f9bc18.js.map",
+    "453.d44e7683.chunk.js.map": "/Prodapt_reactjs_app/static/js/453.d44e7683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40dc14ea.css",
+    "static/js/main.16f9bc18.js"
+  ]
+}
