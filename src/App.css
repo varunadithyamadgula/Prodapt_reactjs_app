@@ -14,6 +14,10 @@
   }
 }
 
+body{
+  padding-top: 70px;
+}
+
 .App-header {
   background-color: #010408;
   min-height: 100vh;

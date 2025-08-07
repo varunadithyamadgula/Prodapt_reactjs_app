@@ -16,6 +16,8 @@ function Dashboard() {
                 padding: '20px',
                 color: 'black',
                 marginBottom: '40px',
+                overflow: 'auto',
+                maxHeight: '100vh',
                 backgroundBlendMode: 'darken',
                 backgroundColor: 'rgba(0, 0, 0, 0.5)'
             }}

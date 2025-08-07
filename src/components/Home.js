@@ -14,7 +14,8 @@ function Home() {
     ];
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-black">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-black fixed-top">
+
                 <div className="container-fluid">
                     <a className="navbar-brand d-flex align-items-center" href="/">
                         <img
